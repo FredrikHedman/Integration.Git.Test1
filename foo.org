@@ -1,0 +1,4 @@
+* A new file
+   + With a list
+   + of stuff
+   
